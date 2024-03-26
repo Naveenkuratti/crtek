@@ -1,0 +1,32 @@
+label{
+    color: blue;
+    background-color: rgb(226, 43, 43);
+}
+body{
+    background-color: hotpink;
+}
+input{
+    color: black;
+}
+button{
+    color: rgb(24, 6, 2);
+    background-color: brown;
+}
+*{
+    color: pink;
+    background-color: blueviolet;
+}
+idname{
+    color: aqua;
+}
+headingone{
+color: aliceblue;
+}
+#name{
+    color: crimson;
+}
+
+div{
+    height: 100px;
+    
+}
